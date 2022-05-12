@@ -1,0 +1,45 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="DesignSurface">
+    <option name="filePathToZoomLevelMap">
+      <map>
+        <entry key="..\:/Users/Administrator/AndroidStudioProjects/ep1comida/app/src/main/res/layout/activity_carrito.xml" value="0.36666666666666664" />
+        <entry key="..\:/Users/Administrator/AndroidStudioProjects/ep1comida/app/src/main/res/layout/activity_contacto.xml" value="0.36666666666666664" />
+        <entry key="..\:/Users/Administrator/AndroidStudioProjects/ep1comida/app/src/main/res/layout/activity_contactos.xml" value="0.33" />
+        <entry key="..\:/Users/Administrator/AndroidStudioProjects/ep1comida/app/src/main/res/layout/activity_login.xml" value="0.33" />
+        <entry key="..\:/Users/Administrator/AndroidStudioProjects/ep1comida/app/src/main/res/layout/activity_registro.xml" value="0.36666666666666664" />
+        <entry key="..\:/Users/Administrator/AndroidStudioProjects/ep1comida/app/src/main/res/layout/activity_sugerencia.xml" value="0.36666666666666664" />
+        <entry key="..\:/Users/Administrator/AndroidStudioProjects/ep1comida/app/src/main/res/layout/content_contacto.xml" value="0.36666666666666664" />
+        <entry key="..\:/Users/Administrator/AndroidStudioProjects/ep1comida/app/src/main/res/layout/fragment_first.xml" value="0.36666666666666664" />
+        <entry key="..\:/Users/BSJF/OneDrive/Escritorio/2022/ISIL/III CICLO/aplicaciones android/recursos/aldo/ep1comida/app/src/main/res/drawable/fondo_img.xml" value="0.1475" />
+        <entry key="..\:/Users/BSJF/OneDrive/Escritorio/2022/ISIL/III CICLO/aplicaciones android/recursos/aldo/ep1comida/app/src/main/res/drawable/ic_baseline_assignment_ind_24.xml" value="0.1475" />
+        <entry key="..\:/Users/BSJF/OneDrive/Escritorio/2022/ISIL/III CICLO/aplicaciones android/recursos/aldo/ep1comida/app/src/main/res/drawable/perfil.xml" value="0.3675" />
+        <entry key="..\:/Users/BSJF/OneDrive/Escritorio/2022/ISIL/III CICLO/aplicaciones android/recursos/aldo/ep1comida/app/src/main/res/layout/activity_carrito.xml" value="0.36666666666666664" />
+        <entry key="..\:/Users/BSJF/OneDrive/Escritorio/2022/ISIL/III CICLO/aplicaciones android/recursos/aldo/ep1comida/app/src/main/res/layout/activity_cartilla.xml" value="0.36666666666666664" />
+        <entry key="..\:/Users/BSJF/OneDrive/Escritorio/2022/ISIL/III CICLO/aplicaciones android/recursos/aldo/ep1comida/app/src/main/res/layout/activity_contacto.xml" value="0.36666666666666664" />
+        <entry key="..\:/Users/BSJF/OneDrive/Escritorio/2022/ISIL/III CICLO/aplicaciones android/recursos/aldo/ep1comida/app/src/main/res/layout/activity_contactos.xml" value="0.36666666666666664" />
+        <entry key="..\:/Users/BSJF/OneDrive/Escritorio/2022/ISIL/III CICLO/aplicaciones android/recursos/aldo/ep1comida/app/src/main/res/layout/activity_empleados.xml" value="0.4" />
+        <entry key="..\:/Users/BSJF/OneDrive/Escritorio/2022/ISIL/III CICLO/aplicaciones android/recursos/aldo/ep1comida/app/src/main/res/layout/activity_equipo.xml" value="0.1" />
+        <entry key="..\:/Users/BSJF/OneDrive/Escritorio/2022/ISIL/III CICLO/aplicaciones android/recursos/aldo/ep1comida/app/src/main/res/layout/activity_escritorio.xml" value="0.36666666666666664" />
+        <entry key="..\:/Users/BSJF/OneDrive/Escritorio/2022/ISIL/III CICLO/aplicaciones android/recursos/aldo/ep1comida/app/src/main/res/layout/activity_home.xml" value="0.4" />
+        <entry key="..\:/Users/BSJF/OneDrive/Escritorio/2022/ISIL/III CICLO/aplicaciones android/recursos/aldo/ep1comida/app/src/main/res/layout/activity_liked.xml" value="0.36666666666666664" />
+        <entry key="..\:/Users/BSJF/OneDrive/Escritorio/2022/ISIL/III CICLO/aplicaciones android/recursos/aldo/ep1comida/app/src/main/res/layout/activity_login.xml" value="0.36666666666666664" />
+        <entry key="..\:/Users/BSJF/OneDrive/Escritorio/2022/ISIL/III CICLO/aplicaciones android/recursos/aldo/ep1comida/app/src/main/res/layout/activity_main.xml" value="0.536" />
+        <entry key="..\:/Users/BSJF/OneDrive/Escritorio/2022/ISIL/III CICLO/aplicaciones android/recursos/aldo/ep1comida/app/src/main/res/layout/activity_nosotros.xml" value="0.36666666666666664" />
+        <entry key="..\:/Users/BSJF/OneDrive/Escritorio/2022/ISIL/III CICLO/aplicaciones android/recursos/aldo/ep1comida/app/src/main/res/layout/activity_perfil.xml" value="0.25833333333333336" />
+        <entry key="..\:/Users/BSJF/OneDrive/Escritorio/2022/ISIL/III CICLO/aplicaciones android/recursos/aldo/ep1comida/app/src/main/res/layout/activity_registro.xml" value="0.36666666666666664" />
+        <entry key="..\:/Users/BSJF/OneDrive/Escritorio/2022/ISIL/III CICLO/aplicaciones android/recursos/aldo/ep1comida/app/src/main/res/layout/activity_setting.xml" value="0.35260416666666666" />
+        <entry key="..\:/Users/BSJF/OneDrive/Escritorio/2022/ISIL/III CICLO/aplicaciones android/recursos/aldo/ep1comida/app/src/main/res/layout/activity_sugerencia.xml" value="0.36666666666666664" />
+        <entry key="..\:/Users/BSJF/OneDrive/Escritorio/2022/ISIL/III CICLO/aplicaciones android/recursos/aldo/ep1comida/app/src/main/res/layout/activity_terminos.xml" value="0.2654600301659125" />
+        <entry key="..\:/Users/BSJF/OneDrive/Escritorio/2022/ISIL/III CICLO/aplicaciones android/recursos/aldo/ep1comida/app/src/main/res/menu/game_menu.xml" value="0.36666666666666664" />
+        <entry key="..\:/Users/BSJF/OneDrive/Escritorio/2022/ISIL/III CICLO/aplicaciones android/recursos/aldo/ep1comida/app/src/main/res/menu/menu_iniciar.xml" value="0.36666666666666664" />
+      </map>
+    </option>
+  </component>
+  <component name="ProjectRootManager" version="2" languageLevel="JDK_11" default="true" project-jdk-name="Android Studio default JDK" project-jdk-type="JavaSDK">
+    <output url="file://$PROJECT_DIR$/build/classes" />
+  </component>
+  <component name="ProjectType">
+    <option name="id" value="Android" />
+  </component>
+</project>
