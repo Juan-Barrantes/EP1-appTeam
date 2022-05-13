@@ -29,6 +29,7 @@
                 android:layout_height="150dp"
                 android:layout_margin="5dp"
                 android:layout_weight="1"
+                android:contentDescription="@string/todo"
                 app:srcCompat="@drawable/team1" />
 
             <ImageView
@@ -37,6 +38,7 @@
                 android:layout_height="150dp"
                 android:layout_margin="5dp"
                 android:layout_weight="1"
+                android:contentDescription="@string/todo"
                 app:srcCompat="@drawable/team2" />
 
             <ImageView
@@ -45,6 +47,7 @@
                 android:layout_height="150dp"
                 android:layout_margin="5dp"
                 android:layout_weight="1"
+                android:contentDescription="@string/todo"
                 app:srcCompat="@drawable/team3" />
         </TableRow>
 
@@ -59,6 +62,7 @@
                 android:layout_height="150dp"
                 android:layout_margin="5dp"
                 android:layout_weight="1"
+                android:contentDescription="@string/todo"
                 app:srcCompat="@drawable/team4" />
 
             <ImageView
@@ -67,6 +71,7 @@
                 android:layout_height="150dp"
                 android:layout_margin="5dp"
                 android:layout_weight="1"
+                android:contentDescription="@string/todo"
                 app:srcCompat="@drawable/team5" />
 
             <ImageView
@@ -75,6 +80,7 @@
                 android:layout_height="150dp"
                 android:layout_margin="5dp"
                 android:layout_weight="1"
+                android:contentDescription="@string/todo"
                 app:srcCompat="@drawable/team6" />
         </TableRow>
 
