@@ -91,7 +91,7 @@ public class MainActivity extends AppCompatActivity implements View.OnClickListe
         startActivity(new Intent(this, CarritoActivity.class));
     }
     private void mostrarAbout(){
-        //startActivity(new Intent(this, AboutActivity.class));
+        startActivity(new Intent(this, NosotrosActivity.class));
     }
     private void mostrarContacto(){
         startActivity(new Intent(this, ContactosActivity.class));
