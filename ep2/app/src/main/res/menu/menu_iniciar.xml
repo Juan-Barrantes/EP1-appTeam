@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:android="http://schemas.android.com/apk/res/android">
+
+    <item
+        android:id="@+id/nav_menu"
+        android:title="@string/menu" />
+    <item
+        android:id="@+id/nav_carritoCompras"
+        android:title="@string/carrito_de_compras" />
+    <item
+        android:id="@+id/nav_sugerencias"
+        android:title="@string/sugerencias" />
+    <item android:title="@string/sobre_nosotros">
+        <menu>
+            <item
+                android:id="@+id/nav_sobre_nosotros"
+                android:title="@string/nosotros" />
+            <item
+                android:id="@+id/nav_contacto"
+                android:title="@string/contacto" />
+            <item
+                android:id="@+id/nav_empleados"
+                android:title="@string/empleados" />
+            <item
+                android:id="@+id/nav_terminos_condiciones"
+                android:title="@string/terminos_y_condiciones" />
+        </menu>
+    </item>
+</menu>

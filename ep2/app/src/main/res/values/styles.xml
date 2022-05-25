@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <style name="textboxstyle">
+        <item name="android:fontFamily">@font/montserrat_semibold</item>
+        <item name="android:textColor">@color/color2</item>
+        <item name="android:textSize">16sp</item>
+    </style>
+
+    <style name="TextViewRegular">
+        <item name="android:fontFamily">@font/montserrat_regular</item>
+        <item name="android:textColor">@color/color2</item>
+        <item name="android:textSize">16sp</item>
+    </style>
+
+
+</resources>

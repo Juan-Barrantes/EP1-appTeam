@@ -1,0 +1,122 @@
+<?xml version="1.0" encoding="utf-8"?>
+<androidx.constraintlayout.widget.ConstraintLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    tools:context=".SettingActivity">
+
+    <Button
+        android:id="@+id/btnHelp2"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_marginTop="20dp"
+        android:backgroundTint="@color/blanco"
+        android:drawableTop="@drawable/ic_baseline_login_24"
+        android:text="Log out"
+        android:textColor="@color/gris"
+        android:textColorLink="@color/black"
+        app:cornerRadius="15dp"
+        app:layout_constraintEnd_toEndOf="parent"
+        app:layout_constraintHorizontal_bias="0.5"
+        app:layout_constraintStart_toStartOf="parent"
+        app:layout_constraintTop_toBottomOf="@+id/tableLayout" />
+
+    <TableLayout
+        android:id="@+id/tableLayout"
+        android:layout_width="409dp"
+        android:layout_height="196dp"
+        android:layout_marginTop="100dp"
+        android:paddingLeft="35dp"
+        android:paddingTop="30dp"
+        app:layout_constraintEnd_toEndOf="parent"
+        app:layout_constraintHorizontal_bias="0.5"
+        app:layout_constraintStart_toStartOf="parent"
+        app:layout_constraintTop_toTopOf="parent">
+
+        <TableRow
+            android:layout_width="match_parent"
+            android:layout_height="80dp">
+
+            <Button
+                android:id="@+id/btn1"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:layout_marginLeft="20dp"
+                android:backgroundTint="@color/blanco"
+                android:drawableTop="@drawable/perfil"
+                android:text="Perfil"
+                android:textColor="@color/gris"
+                android:textColorLink="@color/black"
+                app:cornerRadius="15dp" />
+
+            <Button
+                android:id="@+id/btn2"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:layout_marginLeft="20dp"
+                android:backgroundTint="@color/blanco"
+                android:drawableTop="@drawable/ic_baseline_storefront_24"
+                android:text="Store"
+                android:textColor="@color/gris"
+                android:textColorLink="@color/black"
+                app:cornerRadius="15dp" />
+
+            <Button
+                android:id="@+id/btn3"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:layout_marginLeft="20dp"
+                android:backgroundTint="@color/blanco"
+                android:drawableTop="@drawable/ic_baseline_notifications_24"
+                android:text="Alert"
+                android:textColor="@color/gris"
+                android:textColorLink="@color/black"
+                app:cornerRadius="15dp" />
+
+        </TableRow>
+
+        <TableRow
+            android:layout_width="match_parent"
+            android:layout_height="match_parent">
+
+            <Button
+                android:id="@+id/btnHelp"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:layout_marginLeft="20dp"
+                android:backgroundTint="@color/blanco"
+                android:drawableTop="@drawable/ic_baseline_help_24"
+                android:text="Help"
+                android:textColor="@color/gris"
+                android:textColorLink="@color/black"
+                app:cornerRadius="15dp" />
+
+            <Button
+                android:id="@+id/btnPrivacy"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:layout_marginLeft="20dp"
+                android:backgroundTint="@color/blanco"
+                android:drawableTop="@drawable/ic_baseline_privacy_tip_24"
+                android:text="Privacy"
+                android:textColor="@color/gris"
+                android:textColorLink="@color/black"
+                app:cornerRadius="15dp" />
+
+            <Button
+                android:id="@+id/btnAbout"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:layout_marginLeft="20dp"
+                android:backgroundTint="@color/blanco"
+                android:drawableTop="@drawable/ic_baseline_info_24"
+                android:text="About"
+                android:textColor="@color/gris"
+                android:textColorLink="@color/black"
+                app:cornerRadius="15dp" />
+        </TableRow>
+
+    </TableLayout>
+
+</androidx.constraintlayout.widget.ConstraintLayout>
